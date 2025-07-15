@@ -54,6 +54,9 @@ const PORT = process.env.PORT || 5000;
 app.get("/api/health", (req, res)=>{
     res.status(200).json({success:true})
 })
+app.get('/', (req, res) => {
+  res.send('Hello! Welcome to Fork & Find');
+});
 
 app.post("/api/favorites", async (req, res) => {
     // console.log("Test body:", req.body);
