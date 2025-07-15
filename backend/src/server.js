@@ -89,13 +89,14 @@ import dotenv from "dotenv";
 import db from "./config/db.js"
 import { favoritesTable } from "./db/schema.js";
 import { and, eq } from "drizzle-orm";
+import job from "./config/cron.js";
 dotenv.config();
 
 const app  = express();
 app.use(express.json());
 const PORT = process.env.PORT || 5000;
-
-// if(process.env.NODE_ENV === "production") job.start();
+// if (ENV.NODE_ENV === "production") job.start();
+if(process.env.NODE_ENV === "production") job.start();
 
 app.use(express.json()); // Middleware to parse JSON request bodies
 
