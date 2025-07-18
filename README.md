@@ -5,7 +5,6 @@ A full-stack recipe application with a Node.js/Express backend and a React Nativ
 ---
 
 ## Table of Contents
-
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
@@ -158,3 +157,12 @@ MIT
 - [Expo](https://expo.dev/)
 - [Drizzle ORM](https://orm.drizzle.team/)
 - [TheMealDB](https://www.themealdb.com/) (if using their API) 
+
+
+![IMG-20250718-WA0001](https://github.com/user-attachments/assets/92d6b6c7-e5b6-4f38-8764-e2cc4e544419)
+![IMG-20250718-WA0009](https://github.com/user-attachments/assets/6962e33d-e8ac-4835-bfd9-4dddd947aa95)
+![IMG-20250718-WA0008](https://github.com/user-attachments/assets/abe0907c-c277-4ec8-8a3c-c413513bd88a)
+![IMG-20250718-WA0007](https://github.com/user-attachments/assets/86c39bb8-2719-405f-9ef2-3845366116b3)
+![IMG-20250718-WA0006](https://github.com/user-attachments/assets/018768dd-41dd-4a7e-a22d-dd926a1a7f21)
+![IMG-20250718-WA0005](https://github.com/user-attachments/assets/c593e69e-b152-4202-80be-67568272e36a)
+![IMG-20250718-WA0004](https://github.com/user-attachments/assets/f1d88c1e-8a13-4f7b-8364-97bd363f8cd6)
