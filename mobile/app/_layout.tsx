@@ -8,7 +8,7 @@ import SafeScreen from '@/components/SafeScreen';
 
 export default function RootLayout() {
   return (
-    <ClerkProvider publishableKey="pk_test_bW92ZWQtd2FsbGFieS02OC5jbGVyay5hY2NvdW50cy5kZXYk" tokenCache={tokenCache}>
+    <ClerkProvider tokenCache={tokenCache}>
       <SafeScreen >
       <Slot />
       </SafeScreen>
