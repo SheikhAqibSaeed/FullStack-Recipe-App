@@ -159,10 +159,11 @@ MIT
 - [TheMealDB](https://www.themealdb.com/) (if using their API) 
 
 
-![IMG-20250718-WA0001](https://github.com/user-attachments/assets/92d6b6c7-e5b6-4f38-8764-e2cc4e544419)
-![IMG-20250718-WA0009](https://github.com/user-attachments/assets/6962e33d-e8ac-4835-bfd9-4dddd947aa95)
-![IMG-20250718-WA0008](https://github.com/user-attachments/assets/abe0907c-c277-4ec8-8a3c-c413513bd88a)
-![IMG-20250718-WA0007](https://github.com/user-attachments/assets/86c39bb8-2719-405f-9ef2-3845366116b3)
-![IMG-20250718-WA0006](https://github.com/user-attachments/assets/018768dd-41dd-4a7e-a22d-dd926a1a7f21)
-![IMG-20250718-WA0005](https://github.com/user-attachments/assets/c593e69e-b152-4202-80be-67568272e36a)
-![IMG-20250718-WA0004](https://github.com/user-attachments/assets/f1d88c1e-8a13-4f7b-8364-97bd363f8cd6)
+
+![7](https://github.com/user-attachments/assets/96068755-e503-4615-8262-7a6c88742095)
+![6](https://github.com/user-attachments/assets/630091c0-c812-492c-8588-186e92737032)
+![5](https://github.com/user-attachments/assets/381bba44-70cd-4caf-9c0e-86a4211a0d99)
+![4](https://github.com/user-attachments/assets/74bcb0eb-c801-4a72-bb48-a9fd46fe07b1)
+![3](https://github.com/user-attachments/assets/7187548e-4783-4fe7-a5d3-c9751c982f41)
+![2](https://github.com/user-attachments/assets/7a3db449-531d-4565-97f6-fce157e58148)
+![1](https://github.com/user-attachments/assets/0c2238d5-a4a6-4029-b840-ec48ecce2e6c)
